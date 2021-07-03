@@ -1,0 +1,16 @@
+D:\Users\Colin\Desktop\Projects\Stratosoft\Commands\Stratosoft.Commands\Stratosoft.Commands.Tests\obj\Debug\Stratosoft.Commands.Tests.csprojAssemblyReference.cache
+D:\Users\Colin\Desktop\Projects\Stratosoft\Commands\Stratosoft.Commands\Stratosoft.Commands.Tests\obj\Debug\Stratosoft.Commands.Tests.csproj.CoreCompileInputs.cache
+D:\Users\Colin\Desktop\Projects\Stratosoft\Commands\Stratosoft.Commands\Stratosoft.Commands.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Users\Colin\Desktop\Projects\Stratosoft\Commands\Stratosoft.Commands\Stratosoft.Commands.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Users\Colin\Desktop\Projects\Stratosoft\Commands\Stratosoft.Commands\Stratosoft.Commands.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Users\Colin\Desktop\Projects\Stratosoft\Commands\Stratosoft.Commands\Stratosoft.Commands.Tests\bin\Debug\Stratosoft.Commands.Tests.dll
+D:\Users\Colin\Desktop\Projects\Stratosoft\Commands\Stratosoft.Commands\Stratosoft.Commands.Tests\bin\Debug\Stratosoft.Commands.Tests.pdb
+D:\Users\Colin\Desktop\Projects\Stratosoft\Commands\Stratosoft.Commands\Stratosoft.Commands.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Users\Colin\Desktop\Projects\Stratosoft\Commands\Stratosoft.Commands\Stratosoft.Commands.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Users\Colin\Desktop\Projects\Stratosoft\Commands\Stratosoft.Commands\Stratosoft.Commands.Tests\bin\Debug\Stratosoft.Commands.dll
+D:\Users\Colin\Desktop\Projects\Stratosoft\Commands\Stratosoft.Commands\Stratosoft.Commands.Tests\bin\Debug\Stratosoft.Commands.pdb
+D:\Users\Colin\Desktop\Projects\Stratosoft\Commands\Stratosoft.Commands\Stratosoft.Commands.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Users\Colin\Desktop\Projects\Stratosoft\Commands\Stratosoft.Commands\Stratosoft.Commands.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Users\Colin\Desktop\Projects\Stratosoft\Commands\Stratosoft.Commands\Stratosoft.Commands.Tests\obj\Debug\Stratosoft.Commands.Tests.csproj.CopyComplete
+D:\Users\Colin\Desktop\Projects\Stratosoft\Commands\Stratosoft.Commands\Stratosoft.Commands.Tests\obj\Debug\Stratosoft.Commands.Tests.dll
+D:\Users\Colin\Desktop\Projects\Stratosoft\Commands\Stratosoft.Commands\Stratosoft.Commands.Tests\obj\Debug\Stratosoft.Commands.Tests.pdb

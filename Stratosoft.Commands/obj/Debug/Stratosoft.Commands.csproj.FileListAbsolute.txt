@@ -1,0 +1,8 @@
+D:\Users\Colin\Desktop\Projects\Stratosoft\Commands\Stratosoft.Commands\Stratosoft.Commands\bin\Debug\Stratosoft.Commands.dll
+D:\Users\Colin\Desktop\Projects\Stratosoft\Commands\Stratosoft.Commands\Stratosoft.Commands\bin\Debug\Stratosoft.Commands.pdb
+D:\Users\Colin\Desktop\Projects\Stratosoft\Commands\Stratosoft.Commands\Stratosoft.Commands\obj\Debug\Stratosoft.Commands.csproj.CoreCompileInputs.cache
+D:\Users\Colin\Desktop\Projects\Stratosoft\Commands\Stratosoft.Commands\Stratosoft.Commands\obj\Debug\Stratosoft.Commands.dll
+D:\Users\Colin\Desktop\Projects\Stratosoft\Commands\Stratosoft.Commands\Stratosoft.Commands\obj\Debug\Stratosoft.Commands.pdb
+D:\Users\Colin\Desktop\Projects\Stratosoft\Commands\Stratosoft.Commands\Stratosoft.Commands\obj\Debug\Stratosoft.Commands.Properties.Resources.resources
+D:\Users\Colin\Desktop\Projects\Stratosoft\Commands\Stratosoft.Commands\Stratosoft.Commands\obj\Debug\Stratosoft.Commands.csproj.GenerateResource.cache
+D:\Users\Colin\Desktop\Projects\Stratosoft\Commands\Stratosoft.Commands\Stratosoft.Commands\obj\Debug\Stratosoft.Commands.csprojAssemblyReference.cache
