@@ -52,6 +52,7 @@
     <Compile Include="ICommand.cs" />
     <Compile Include="ICommandInvoker.cs" />
     <Compile Include="ICommandManager.cs" />
+    <Compile Include="IComponentCommand.cs" />
     <Compile Include="IParameterisedCommand.cs" />
     <Compile Include="IRevertableCommand.cs" />
     <Compile Include="IUndoStack.cs" />

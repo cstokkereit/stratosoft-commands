@@ -8,7 +8,7 @@ namespace Stratosoft.Commands
     /// Abstract base class for commands that are invoked by a user interface component e.g. System.Windows.Forms.Button and act on the specified type of receiver.
     /// </summary>
     /// <typeparam name="TReceiver">The type of receiver that this command acts on.</typeparam>
-    public abstract class ComponentCommand<TReceiver> : Command<TReceiver>
+    public abstract class ComponentCommand<TReceiver> : Command<TReceiver>, IComponentCommand
     {
         private readonly List<Component> instances = new List<Component>(); // A list containing the instances of components that can invoke this command.
 
@@ -29,6 +29,8 @@ namespace Stratosoft.Commands
             this.manager = manager ?? throw new ArgumentNullException("manager");
         }
 
+        #region IComponentCommand Members
+
         /// <summary>
         /// Gets or sets the Checked property of the controls that can execute this command.
         /// </summary>
@@ -38,6 +40,7 @@ namespace Stratosoft.Commands
             {
                 return isChecked;
             }
+
             set
             {
                 foreach (var instance in instances)
@@ -58,6 +61,7 @@ namespace Stratosoft.Commands
             {
                 return isEnabled;
             }
+
             set
             {
                 foreach (var instance in instances)
@@ -83,6 +87,8 @@ namespace Stratosoft.Commands
 
             invoker.UpdateCheckedState(instance, Checked);
             invoker.UpdateEnabledState(instance, Enabled);
-        }
+        } 
+
+        #endregion
     }
 }
