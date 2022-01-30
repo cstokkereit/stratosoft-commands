@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package >
+  <metadata>
+    <id>Stratosoft.Commands</id>
+    <version>1.0.0</version>
+    <title>Stratosoft Command Management Library</title>
+    <authors>Colin Stokkereit</authors>
+	<owners>Stratosoft</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="expression">MIT</license>
+    <projectUrl>https://github.com/cstokkereit/stratosoft-commands</projectUrl>
+    <description>A library for creating, invoking and managing commands.</description>
+    <releaseNotes>Initial release.</releaseNotes>
+    <copyright>Copyright 2021</copyright>
+    <tags>Command  Management</tags>
+	<dependencies>
+      <group targetFramework=".NETFramework4.8" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="bin\Release\Stratosoft.Commands.dll" target="lib/net48" />
+  </files>
+</package>
